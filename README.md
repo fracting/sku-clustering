@@ -34,7 +34,7 @@ For machine learning approaches:
 For **non machine learning approach**:
  * network analysis was used, which **outperforms all machine learning models** being tried.
  
-**Note:** due to the unique approach taken in this project, Airflow and Spark was not used during experiment. To show respect to the interview, an implementation using Airflow + Spark will be provided separately with some delay.
+**Note:** due to the unique approach taken in this project, Airflow and Spark was not used during experiment. To show respect to the project requirement, an implementation using Airflow + Spark will be provided separately with some delay.
 
 # Comparision of different solutions
 
