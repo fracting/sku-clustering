@@ -71,7 +71,7 @@ For **non machine learning approach**:
  * connected graph components (non machine learning)
  
 
-**Experiments show that all components are important but some are more critical:**
+**Experiments show that all factors are important but some are more critical:**
 
  * Importance of clustering algorithm (and hyperparameter)
   
