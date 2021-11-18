@@ -23,7 +23,7 @@ This report consists of 4 chapters.
  
  * Chapter 2: [Exploratory data analysis - Part 2 - Why TF-IDF is a good start?](https://github.com/fracting/sku-clustering/blob/main/Chapter%202%20-%20Exploratory%20data%20analysis%20%282%29.ipynb)
 
- * Chapter 3: Presents a machine learning solution using `word embedding + KMean++`.
+ * Chapter 3: [Presents a machine learning solution using `word embedding + KMean++`](https://github.com/fracting/sku-clustering/blob/main/Chapter%203%20-%20Clustering%20with%20word%20embedding%20%2B%20K-means%2B%2B.ipynb).
 
  * Chapter 4: Presents a non machine learning approach and explains why it works better.
 
