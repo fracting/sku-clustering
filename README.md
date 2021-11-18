@@ -25,7 +25,7 @@ This report consists of 4 chapters.
 
  * Chapter 3: [Presents a machine learning solution using `word embedding + KMean++`](https://github.com/fracting/sku-clustering/blob/main/Chapter%203%20-%20Clustering%20with%20word%20embedding%20%2B%20K-means%2B%2B.ipynb).
 
- * Chapter 4: Presents a non machine learning approach and explains why it works better.
+ * Chapter 4: [Presents a non machine learning approach and explains why it works better](https://github.com/fracting/sku-clustering/blob/main/Chapter%204%20-%20Network%20analysis%20-%20connected%20graph%20component.ipynb).
 
 For machine learning approaches:
  * `TF-IDF + KMean++`, `word embedding + KMean++` and `TF-IDF + word embedding + KMean++` all works reluctantly.
